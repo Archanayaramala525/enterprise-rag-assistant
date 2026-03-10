@@ -1,0 +1,3 @@
+## System Architecture
+
+The RAG pipeline retrieves relevant document embeddings and provides them to the LLM to generate context-aware responses.
